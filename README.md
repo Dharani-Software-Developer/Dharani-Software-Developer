@@ -3,7 +3,10 @@
 <!-- Profile Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
+      &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="90" alt="Python"/>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
