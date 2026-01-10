@@ -21,9 +21,9 @@
 
 # 👋 Hi there, I'm Dharani
 
-### 🚀 Python Full Stack Developer | Web Development | Aws Cloud | REST API
+### 🚀 Python Full Stack Developer | Web Development | AWS Cloud | REST API
 
-Welcome to my GitHub! I’m Dharani, a passionate Software Developer with 2.2 years of professional experience, specializing in backend development, API design, and workflow automation. I enjoy building reliable, scalable systems and enhancing them using modern development and DevOps practices.
+Welcome to my GitHub! I’m Dharani, a passionate Software Developer with 2.2+ years of professional experience, specializing in backend development, API design, and workflow automation. I enjoy building reliable, scalable systems and enhancing them using modern development and DevOps practices.
 
 ### 💻 Languages
 - Python
@@ -41,7 +41,7 @@ Welcome to my GitHub! I’m Dharani, a passionate Software Developer with 2.2 ye
 ### ☁️ DevOps & Cloud
 - Docker
 - GitHub Actions
-- AWS (EC2, S3, Lambda)
+- AWS (EC2, VPC, IAM, S3, Lambda)
 - Linux
   
 ## 🛠 Language and Tools
