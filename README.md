@@ -2,9 +2,6 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/154864159?s=400&u=96e90a969c61a26633db98e783fa7793ee61750b&v=4" width="400"/>
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
 </p>
 <p align="center">
