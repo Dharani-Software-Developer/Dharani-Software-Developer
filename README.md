@@ -41,7 +41,7 @@ Welcome to my GitHub! I’m Dharani, a passionate Software Developer with 2.2+ y
 ### ☁️ DevOps & Cloud
 - Docker
 - GitHub Actions
-- AWS (EC2, VPC, IAM, S3, Lambda)
+- AWS (EC2, VPC, IAM, S3, Route53)
 - Linux
   
 ## 🛠 Language and Tools
